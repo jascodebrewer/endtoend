@@ -1,7 +1,7 @@
 pandas
 numpy
 scikit-learn
-
+Flask
 
 -e . 
 #This means editable, . signify current directory, -e . calls setup.py internally!
